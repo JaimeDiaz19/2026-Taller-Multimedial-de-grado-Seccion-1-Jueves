@@ -4,7 +4,7 @@ Seccion1-Jueves
 
 #### Ejercicio 1 Semana 1
 
-'''
+```
 
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
@@ -76,5 +76,5 @@ MULTIMEDIAL
 <!-- Fin del documento HTML -->
 
 
-'''
+```
 
