@@ -1,4 +1,5 @@
-# Taller-de-Grado-Multimedial-Seccion-1-Lunes
+# Taller-de-Grado-Multimedial-Seccion-1-Jueves
+
 ## Seccion1-Jueves
 
 
